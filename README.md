@@ -7,6 +7,7 @@ Ideias de projeto:
  * Everton da Silva Souza - evertonsilva2345meia78@gmail.com
  * Joyce Mirelle Oliveira Santos - joycemirelleos.02@gmail.com
  * Gabriel Souza Arruda de Queiroz - gabrielsouza943@outlook.com
+ * James Anderson do Nascimento - nascjimmy@gmail.com
 
 ## Descrição geral do projeto 
 O programa irá disponibilizar ao usuário ferramentas práticas e intuitivas para a construção de músicas de diversos gêneros e estilos de modo extremamente fácil a partir da criação e manipulação de notas musicais ao longo de faixas que serão utilizadas para a composição da musica como um todo, onde cada faixa representará um instrumento musical, tornando possível assim para o usuário manipular precisamente cada parte da musica de acordo com o instrumento que ele desejar.
